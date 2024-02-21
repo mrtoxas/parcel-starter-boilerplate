@@ -57,15 +57,30 @@ Before you get started, it is recommended to do a little cleanup of the template
 
 ## Run Locally
 
-1. Clone the repo: `git clone https://github.com/mrtoxas/parcel-starter-boilerplate`
-2. Go to your project folder from your terminal: `cd parcel-starter-boilerplate`
-3. Install dependencies: `yarn install`
-4. After installation, run: `yarn start`  
+1. Clone the repo from your terminal:
+```
+git clone https://github.com/mrtoxas/parcel-starter-boilerplate
+```
+2. Go to your project folder:
+```
+cd parcel-starter-boilerplate
+```
+3. Install dependencies:
+```
+yarn install
+```
+4. After installation, run:
+```
+yarn start
+```
 5. It will open your browser: [http://localhost:1234](http://localhost:1234)
 
 ## Build
 
-To build the project, run: `yarn build` 
+To build the project, run: 
+```
+yarn build
+```
 
 After running the build command, the 'dist' directory will be created in the root directory of your project.
 
